@@ -1,1 +1,1 @@
-this is a trial to ficx code project for extra points
+this ia readme fir the fix it project
